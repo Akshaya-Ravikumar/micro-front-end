@@ -1,9 +1,9 @@
 [submodule "mfe2"]
 	path = mfe2
-	url = git@github.com:Akshaya-Ravikumar/micro-front-end.git
+	url = git@github.com:Akshaya-Ravikumar/mfe2.git
 [submodule "mfe1"]
 	path = mfe1
-	url = git@github.com:Akshaya-Ravikumar/micro-front-end.git
+	url = git@github.com:Akshaya-Ravikumar/mfe1.git
 [submodule "container"]
 	path = container
 	url = git@github.com:Akshaya-Ravikumar/container.git
